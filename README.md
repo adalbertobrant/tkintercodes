@@ -8,4 +8,5 @@
 <tr>
 <td>
 tkintercodes.py
-</td><td>Main Window -Class format with title</td></tr>
+</td><td>Janela Principal -Classe com título </td></tr>
+<tr><td>tkintercodes_frames.py</td>Coloca frames dentro da janela principal<td></td></tr>
