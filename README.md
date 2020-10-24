@@ -1,5 +1,12 @@
 <h3> Small Codes to help in tkinter development.</h3>
 
+## Put your name in contributing.md 
+## Create a tkinter code in codeTkinter
+## Comment the code 
+## Give Stars to the project
+
+Happy Hacktoberfest 2020
+
 <table style = "width:100%">
 <tr>
 <th>Code Name</th>
