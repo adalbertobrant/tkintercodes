@@ -1,7 +1,7 @@
 <h3> Small Codes to help in tkinter development.</h3>
 
 ## Put your name in contributing.md 
-## Create a tkinter code in codeTkinter
+## Create a tkinter code in code directory
 ## Comment the code 
 ## Give Stars to the project
 
